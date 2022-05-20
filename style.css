@@ -27,7 +27,12 @@
     }
 
     .body .nav3 li{
-        margin: 0 100px 0;
+        margin: auto;
+    }
+
+    .fruit{
+        width: 100%;
+        height: auto;
     }
     
 }
@@ -248,7 +253,7 @@ footer{
     color: #243333;
 }
 
-#fruit{
+.fruit{
     width: auto;
     height: auto;
 }
