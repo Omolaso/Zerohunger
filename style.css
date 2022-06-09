@@ -6,7 +6,6 @@
         font-size: 25px;
         position: relative;
         top: 25px;
-        right: 15px;
     }
 
     .nav1 li, .nav2 li{
@@ -17,7 +16,7 @@
         position: absolute;
         top: 130px;
         text-align: center;
-        display: flex;
+        display: flex !important;
         flex-direction: column;
         justify-content: center;
         background-color: #F8F9FA ;
